@@ -57,6 +57,9 @@
           color: #181616;
           font-size: 20px;
 }
+noscript { 
+            color:red;
+}
 
 
 
